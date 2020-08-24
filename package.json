@@ -1,0 +1,19 @@
+{
+  "name": "hongyansms",
+  "version": "1.0.4",
+  "keywords":["hongyan","hongyansms","宏衍短信"],
+  "description": "宏衍短信 Nodejs SDK",
+  "main": "index.js",
+  "scripts": {},
+  "author": "misitebao",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misitebao/hongyan-sms-sdk-node.git"
+  },
+  "homepage":"https://github.com/misitebao/hongyan-sms-sdk-node",
+  "license": "MIT",
+  "dependencies": {
+    "md5-node": "^1.0.1",
+    "superagent": "^5.0.9"
+  }
+}
